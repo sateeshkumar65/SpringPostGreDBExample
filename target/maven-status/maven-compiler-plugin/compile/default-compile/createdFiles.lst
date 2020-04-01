@@ -1,0 +1,4 @@
+com/example/demo/postgre/ApplicationMeta.class
+com/example/demo/SpringPostGreDbExampleApplication.class
+com/example/demo/controller/SpringPostgreController.class
+com/example/demo/postgre/ApplicationMetaRepository.class
